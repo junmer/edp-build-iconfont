@@ -1,3 +1,7 @@
+move to [ecomfe/edp-build-iconfont](https://github.com/ecomfe/edp-build-iconfont)
+
+---
+
 # edp-build-iconfont
 
 > edp-build iconfont with fontmin, generate [iconfont](https://github.com/showcases/icon-fonts) from svgs.
